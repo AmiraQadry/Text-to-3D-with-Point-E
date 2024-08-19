@@ -1,10 +1,10 @@
-# 🖼️ 3D Image Generation using Point-E (ViT + GPT-2) 🚀
+# 3D Image Generation using Point-E (ViT + GPT-2) 
 
 This project showcases the use of OpenAI's Point-E model to generate 3D images from text prompts. By leveraging a combination of Vision Transformers (ViT) and GPT-2, 
 Point-E can synthesize view-based images from text and convert them into detailed 3D point clouds. 
 This project demonstrates the entire process, from setting up the environment to generating various 3D objects based on text descriptions.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [How Point-E Works](#how-point-e-works)
 - [Project Setup](#project-setup)
